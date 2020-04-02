@@ -1,3 +1,4 @@
 *.swp
-test
-.rubocop.yml
+/test
+/.rubocop.yml
+/.gitignore
